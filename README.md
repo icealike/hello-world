@@ -1,2 +1,4 @@
 # hello-world
-just another apository
+
+Hi,humans!
+Hubot,there,i like python.
